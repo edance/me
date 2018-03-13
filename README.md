@@ -6,4 +6,4 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/mmmmpizzza.svg?style=social&label=Twitter%20Followers&style=flat-square)]()
 
 
-![Random](https://picsum.photos/200/300/?random)
+![Random](https://picsum.photos/200/300.jpg?random)
